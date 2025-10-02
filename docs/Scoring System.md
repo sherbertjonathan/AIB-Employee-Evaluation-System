@@ -72,7 +72,8 @@ A. The Requirement: Must Be Able to Perform
 A critical addition to the scoring is a minimum requirement for proficiency on a certain number of Level 2 and Level 3 difficulty operations. An operator must demonstrate mastery of the more challenging equipment and/or operations to qualify for a higher-tier role.
 
 B. Suggested Level Requirements
-| Role | Minimum Total AES | Must Maintain AES | Key Technical Requirements
+| Role | Minimum Total AES | Must Maintain AES | Key Technical Requirements |
+|---|---|---|
 Production Operator I | N/A (Entry Level) | 60% | Must successfully complete basic safety and introductory training.
 Production Operator II | 70% | 65% | Proficient (Skill S ≥ 3 and Proficiency P ≥ 3) on a minimum of 3 Difficulty Level 2 operations.
 Production Operator III | 80% | 75% | Proficient (Skill S ≥ 3 and Proficiency P ≥ 3) on a minimum of 3 Difficulty Level 3 operation AND 5 Difficulty Level 2 operations.
