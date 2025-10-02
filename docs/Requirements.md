@@ -11,6 +11,9 @@
 - Grade employee on Initiative (1-5)
 - Grade employee on Attention to Detail (1-5)
 
+Operation Difficulty X Skill Level X Proficiency Level (max = 75)
+
+
 
 Time Management
 The ability to work independently with minimal supervision and with an effective use of time.
